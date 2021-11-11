@@ -19,7 +19,7 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Mikhaiel/Jinnh-">
+  <a href="https://github.com/Ashmilsonu/jinnh-.git
     <img src="https://img.shields.io/github/repo-size/Mikhaiel/Jinnh?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Mikhaiel/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mikhaiel?color=blue&style=flat-square"></a>
